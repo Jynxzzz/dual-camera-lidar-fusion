@@ -23,3 +23,6 @@ data/
 outputs/
 .vscode/
 .idea/
+
+# Claude Code local config
+.claude/
